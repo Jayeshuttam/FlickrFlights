@@ -1,5 +1,12 @@
 # FlickrFlights
+Flickr Flights is the App version of my Flight Reservation Website.
+It is based on Material Design guidelines.I tried my best to make it beautiful.Hope you enjoy it.
 
+It allows various features like search between One Way and Round trips
+Navigate through your previous flights and much more.
+
+
+Common Setup:
 You can run the project with 2 ways:
 
 First Method
