@@ -13,7 +13,7 @@ First Method
 
 Second Method
 
-1.Copy the following link : 
+1.Copy the following link : https://github.com/Jayeshuttam/FlickrFlights.git
 
 2.Open Android Studio
 
