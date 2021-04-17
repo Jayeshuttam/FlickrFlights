@@ -17,6 +17,8 @@ First Method
 4.File->Open Project->project location
 5.You are good to go
 
+Note:This App uses Flight-Reservation Website as backend so go ahead and download the repository and execute the node server.Then only this app would work
+You can clik here to go to the link[here &rarr;](https://portfolio-template.surge.sh)
 
 Second Method
 
