@@ -9,7 +9,7 @@ Navigate through your previous flights and much more.
 Common Setup:
 You can run the project with 2 ways:
 
-First Method
+<b>First Method<b>
 
 1.Download the Zip
 2.Extract the zip to you desired location
