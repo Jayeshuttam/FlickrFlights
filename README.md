@@ -30,3 +30,15 @@ Second Method
 
 4.You are Good to go.
 
+
+Screenshots:
+
+![splash](https://user-images.githubusercontent.com/38659267/115770037-34aca780-a37a-11eb-9e3e-4347742a1d31.png)
+![login](https://user-images.githubusercontent.com/38659267/115770039-35453e00-a37a-11eb-8074-27cd564b9322.png)
+![nav_bar](https://user-images.githubusercontent.com/38659267/115770040-35453e00-a37a-11eb-8445-493d22ce0789.png)
+![one-way](https://user-images.githubusercontent.com/38659267/115770043-35453e00-a37a-11eb-9251-b6cdb81ff94c.png)
+![profile](https://user-images.githubusercontent.com/38659267/115770045-35453e00-a37a-11eb-8d5f-6bfaf1df6364.png)
+![results](https://user-images.githubusercontent.com/38659267/115770047-35ddd480-a37a-11eb-8aa1-0537ad4cc4ff.png)
+![signup](https://user-images.githubusercontent.com/38659267/115770049-35ddd480-a37a-11eb-81c4-a62f822e5c1c.png)
+
+
