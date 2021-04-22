@@ -5,8 +5,10 @@ It is based on Material Design guidelines.I tried my best to make it beautiful.H
 It allows various features like search between One Way and Round trips
 Navigate through your previous flights and much more.
 
+<h2>Required Application(If you want to modify/run it on emulator</h2>
+<h3>1.)Android Studio</h3>
 
-Common Setup:
+<h2>Common Setup:</h2>
 You can run the project with 2 ways:
 
 <b>First Method<b>
