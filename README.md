@@ -11,7 +11,7 @@ Navigate through your previous flights and much more.
 <h2>Common Setup:</h2>
 You can run the project with 2 ways:
 
-<b>First Method<b>
+<b>First Method</b>
 
 1.Download the Zip
 2.Extract the zip to you desired location
@@ -22,7 +22,7 @@ You can run the project with 2 ways:
 Note:This App uses Flight-Reservation Website as backend so go ahead and download the repository and execute the node server.Then only this app would work when nodeJs server will be running else it wont work
 You can clik here to go to the link[here &rarr;](https://github.com/Jayeshuttam/Flight-Reservation.git)
 
-Second Method
+<b>Second Method</b>
 
 1.Copy the following link : https://github.com/Jayeshuttam/FlickrFlights.git
 
